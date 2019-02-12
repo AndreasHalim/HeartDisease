@@ -1,0 +1,50 @@
+* {
+/* Merapatkan sisi atas header */
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background:#7ecde0;
+}
+
+header {
+    background-color: white;
+    height: 90px;
+}
+
+div {
+    margin-bottom: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 240px;
+    text-align: right;
+    padding-right: 10px;
+}
+
+button, .input {
+    float: right;
+}
+
+button {
+    font-size: 1rem;
+    padding: 0.25rem 1rem;
+    margin-top: 1rem;    
+}
+
+th {
+    margin-bottom: 2rem;
+}
+
+td {
+    padding-right: 1rem;
+    padding-left: 1rem;
+    font-family: 'Trebuchet MS';
+}
+
+.edit_profile_container {
+    width: 500px;
+    margin: auto;
+}
